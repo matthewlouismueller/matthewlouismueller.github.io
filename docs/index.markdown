@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hello! I'm an engineer who tries to make cool stuff from time to time. This is where I will try to docmunet some of the things.
